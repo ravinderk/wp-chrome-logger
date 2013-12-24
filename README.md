@@ -1,0 +1,2 @@
+wp-chrome-debugger
+==================
