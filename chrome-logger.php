@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Chrome Logger
-Description: output anything in chrome console ( yet another debugging tool )
+Description: output anything in chrome console ( yet another debugging helper )
 Plugin URI: http://blogdesignstudio.com
 Author: Mayank Gupta / Ravinder Kumar
 Author URI: http://blogdesignstudio.com
