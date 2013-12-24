@@ -65,5 +65,5 @@ function chrome_logger_footer_test() {
 	ChromePhp::log( $_SERVER );
 	ChromePhp::warn( 'something went wrong!' );
 }
-add_action( 'wp_footer', 'chrome_logger_footer_test' );
+// add_action( 'wp_footer', 'chrome_logger_footer_test' );
 ?>
